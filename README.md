@@ -416,43 +416,7 @@ A structured comparison matrix was developed scoring each methodology across eva
 
 ---
 
-## 📁 Repository Contents
 
-```
-SDLC-ON-ODOO-ERP-SYSTEM/
-│
-├── README.md                          # This file - comprehensive project overview
-│
-├── docs/
-│   ├── ISE_report_57.docx            # Main academic report (Word format)
-│   ├── ISE_report_extracted.md       # Markdown version for easy viewing
-│   ├── citation_analysis.md          # Detailed citation review and recommendations
-│   └── diagrams/
-│       ├── waterfall_model.png       # Waterfall SDLC visual representation
-│       ├── spiral_model.png          # Spiral SDLC visual representation
-│       ├── incremental_model.png     # Incremental SDLC visual representation
-│       └── odoo_architecture.png     # Odoo three-tier architecture diagram
-│
-├── requirements/
-│   ├── functional_requirements.md    # Detailed functional specifications
-│   ├── non_functional_requirements.md # Quality attributes and constraints
-│   ├── validation_strategy.md        # Requirements validation methodology
-│   └── traceability_matrix.xlsx     # Requirements-to-objectives mapping
-│
-├── analysis/
-│   ├── comparative_analysis.md       # Detailed SDLC comparison
-│   ├── risk_assessment.md            # Risk identification and mitigation
-│   └── quality_assurance.md          # QA strategies and testing approaches
-│
-├── references/
-│   ├── bibliography.md               # Complete reference list with annotations
-│   ├── academic_papers/              # Key research papers (where permissible)
-│   └── technical_docs/               # Odoo official documentation excerpts
-│
-└── LICENSE                           # Academic use license
-```
-
----
 
 ## 🚀 How to Use This Repository
 
